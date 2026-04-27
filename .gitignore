@@ -1,0 +1,12 @@
+# Ignore everything by default so thesis/data/PPT files are never uploaded by accident.
+*
+
+# Allow the project memory package.
+!AGENTS.md
+!.gitignore
+!.memory-bank/
+!.memory-bank/**
+!.agents/
+!.agents/skills/
+!.agents/skills/project-memory/
+!.agents/skills/project-memory/**
